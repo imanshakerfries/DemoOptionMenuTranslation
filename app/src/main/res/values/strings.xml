@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoOptionMenuTranslation</string>
+    <string name="tvTranslatedText">Hello</string>
+    <string name="tvTranslatedText2">Bye</string>
+    <string name="english">English</string>
+    <string name="italian">Italian</string>
+</resources>
